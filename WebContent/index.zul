@@ -1,6 +1,7 @@
 <?page title="Auto Generated index.zul"?>
 <window title="Hello World!!" border="normal" width="200px">
 
+	This is a demo page.
 	<label value="You are using: ${desktop.webApp.version}" />
 
 </window>
